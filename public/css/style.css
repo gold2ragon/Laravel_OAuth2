@@ -1,0 +1,42 @@
+.card
+{
+    clear: both;
+    margin-bottom: 20px;
+}
+
+.card-header
+{
+    color: blue;
+    font-size: 20px;
+    font-weight: bold;
+    background: lightblue;
+}
+.card{
+    border-color: lightblue;
+    box-shadow: 7px 5px 10px #8d97ad;
+}
+
+strong{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+img{
+    width: 100%;
+}
+.block
+{
+    position: relative;
+}
+.left
+{
+    float: left;
+    padding-left: 10px;
+}
+.right
+{
+    float: right;
+}
+
+.btn{
+    margin-top: 15px;
+}
